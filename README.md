@@ -49,8 +49,8 @@ _You **can** combine them_
 
 ![This is a alt text.](/image/sample.jpg "This is a sample image.")
 
-  a  |  b
-:-------------------------:|:-------------------------:
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa | bbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+:-----------------------------:|:-----------------------------:
 ![](/image/sample.png) |  ![](/image/sample.png)
 
 <p align="center">
