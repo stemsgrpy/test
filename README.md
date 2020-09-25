@@ -51,7 +51,7 @@ _You **can** combine them_
 
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa | bbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 :-----------------------------:|:-----------------------------:
-![](/image/sample.png) |  ![](/image/sample.png)
+![](/image/sample.gif) |  ![](/image/sample.gif)
 
 <p align="center">
   <img width="500" src="/image/sample.jpg">
