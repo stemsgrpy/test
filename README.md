@@ -49,13 +49,13 @@ _You **can** combine them_
 
 ![This is a alt text.](/image/sample.jpg "This is a sample image.")
 
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa | bbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-:-----------------------------:|:-----------------------------:
-![](https://github.com/stemsgrpy/test/blob/master/image/sample.gif) |  ![](https://github.com/stemsgrpy/test/blob/master/image/sample.gif)
-
 | aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa | bbbbbbbbbbbbbbbbbbbbbbbbbbbbbb |
 | ------------------------------ | ------------------------------ |
 | ![](/image/sample.jpg)         | ![](/image/sample.jpg) | 
+
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa | bbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+:-----------------------------:|:-----------------------------:
+![](https://github.com/stemsgrpy/test/blob/master/image/sample.gif) |  ![](https://github.com/stemsgrpy/test/blob/master/image/sample.gif)
 
 <p align="center">
   <img width="500" src="/image/sample.jpg">
