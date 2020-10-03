@@ -57,7 +57,7 @@ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa | bbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 :-----------------------------:|:-----------------------------:
 ![](https://github.com/stemsgrpy/test/blob/master/image/sample.gif) |  ![](https://github.com/stemsgrpy/test/blob/master/image/sample.gif)
 
-<table class="center">
+<table>
   <tr>
     <th>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</th>
     <th>bbbbbbbbbbbbbbbbbbbbbbbbbbbbbb</th>
@@ -71,12 +71,6 @@ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa | bbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
     </th>
   </tr>
 </table>
-
-<style>
-table.center {
-  margin-left: 50%;
-}
-</style>
 
 <p align="center">
   <img width="500" src="/image/sample.jpg">
