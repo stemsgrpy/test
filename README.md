@@ -57,12 +57,6 @@ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa | bbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 :-----------------------------:|:-----------------------------:
 ![](https://github.com/stemsgrpy/test/blob/master/image/sample.gif) |  ![](https://github.com/stemsgrpy/test/blob/master/image/sample.gif)
 
-<style>
-table.center {
-  margin-left: 15%;
-}
-</style>
-
 <table class="center">
   <tr>
     <th>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</th>
@@ -77,6 +71,12 @@ table.center {
     </th>
   </tr>
 </table>
+
+<style>
+table.center {
+  margin-left: 50%;
+}
+</style>
 
 <p align="center">
   <img width="500" src="/image/sample.jpg">
